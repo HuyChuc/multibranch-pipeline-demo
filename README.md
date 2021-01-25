@@ -6,3 +6,5 @@ Xin chào thế giới
 chào lần 2
 
 chào lần 3
+chào lần 4
+*** Cấu hình chọn git không phải github
