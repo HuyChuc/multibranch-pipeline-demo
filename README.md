@@ -9,6 +9,8 @@ chào lần 3
 chào lần 4
 
 chào lần 5
+1. public web qua ngrok
+2. cau hinh webhook git
 
 
 *** Cấu hình chọn git không phải github
