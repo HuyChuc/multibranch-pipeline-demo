@@ -16,8 +16,10 @@ chào lần 7 nhé
 chào lần 8 nhé new branch
 
 chào lần 9 cuối nhé 
+chào lần 10 cuối nhé 
 
-phai go lenh git push origin develop
+phai go lenh git push origin develop --> không ăn
+
 1. public web qua ngrok
 2. cau hinh webhook git
 
