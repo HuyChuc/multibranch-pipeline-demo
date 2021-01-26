@@ -10,6 +10,8 @@ chào lần 4
 
 chào lần 5
 chào lần 6
+
+chào lần 7 nhé
 1. public web qua ngrok
 2. cau hinh webhook git
 
