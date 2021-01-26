@@ -23,7 +23,8 @@ tren git tao pull request update xem confict khong?
 4
 5
 6
-
+7
+8
 phai go lenh git push origin develop --> không ăn
 
 1. public web qua ngrok
