@@ -12,6 +12,11 @@ chào lần 5
 chào lần 6
 
 chào lần 7 nhé
+
+chào lần 8 nhé new branch
+
+chào lần 9 cuối nhé 
+
 1. public web qua ngrok
 2. cau hinh webhook git
 
