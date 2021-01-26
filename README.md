@@ -19,7 +19,7 @@ chào lần 9 cuối nhé
 chào lần 10 cuối nhé 
 
 -- test pull request
-tren git tao full request
+tren git tao pull request
 
 phai go lenh git push origin develop --> không ăn
 
